@@ -75,11 +75,4 @@ Salesperson contributions highlight clear leaders like **Ches Bonnell**, while u
 
 ---
 
-## 🚀 How to Use
-1. Clone this repository  
-2. Open the Tableau workbook (`.twb` or `.twbx`)  
-3. Explore the interactive dashboard for insights  
-
----
-
-## 📂 Repository Structure
+e
