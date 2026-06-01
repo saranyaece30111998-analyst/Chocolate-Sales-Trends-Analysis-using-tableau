@@ -73,6 +73,4 @@ The interactive Tableau dashboard consolidates shipment volumes, revenue, produc
 The analysis reveals strong overall performance with **₹61.8M revenue** and **1.77 lakh boxes shipped**, driven by Australia’s market dominance and premium dark chocolate demand.  
 Salesperson contributions highlight clear leaders like **Ches Bonnell**, while underperforming regions (USA, Canada, NZ) present untapped opportunities for growth.  
 
----
-
-e
+--
